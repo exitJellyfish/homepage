@@ -1,8 +1,8 @@
 
 # Hello
-这里是YK菌的个人主页~欢迎访问
+这里是N的个人主页~欢迎访问
 
-<img src="./.vuepress/public/img/YK菌.jpg" width="100px" >
+<img src="./.vuepress/public/img/log.png" width="400px"  >
 
 ## 板块介绍
 ### 顶部导航区域

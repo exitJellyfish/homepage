@@ -4,7 +4,7 @@ npm run docs:build
 cd dist
 git init
 git add -A
-git commit -m 'yk'
+git commit -m 'N'
 
 git push -f git@github.com:yk2012/yk2012.github.io.git master
 
